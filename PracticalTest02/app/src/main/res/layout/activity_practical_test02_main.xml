@@ -48,4 +48,12 @@
         android:text="POLL"
         tools:layout_editor_absoluteX="258dp"
         tools:layout_editor_absoluteY="321dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="161dp"
+        android:layout_height="36dp"
+        android:text="Server Response"
+        tools:layout_editor_absoluteX="117dp"
+        tools:layout_editor_absoluteY="456dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
